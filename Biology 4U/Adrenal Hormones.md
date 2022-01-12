@@ -1,4 +1,5 @@
 ## Adrenal Hormones
+[[Adrenal Gland]]
 'renal' refers to kidneys
 Adrenal glands located on top of kidneys
  - 2 Regions

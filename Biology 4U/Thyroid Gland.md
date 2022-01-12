@@ -34,4 +34,4 @@ Iodine signals *thyroxine* production
 
 Lack of iodine causes thyroid to be too active (no negative feedback loop, TSH continously produced), leads to swelling, called *Goiter*
 
-[[Parathyroid glands]]
+[[Parathyroid Glands]]

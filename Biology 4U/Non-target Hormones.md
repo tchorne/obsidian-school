@@ -2,7 +2,7 @@
 Growth hormone/somatropin (pituitary)
 - Stimulates growth of body
 
-Insulin (pancreas)
+#Insulin (pancreas)
 - Regulates blood sugar (released when increased sugar level)
 
 Epinephrine/adreneline (adrenal medulla)
