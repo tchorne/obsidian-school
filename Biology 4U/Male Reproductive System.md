@@ -1,4 +1,4 @@
-Horomes produced in interstitial cells bind with seminiferous cells in testes
+Horomes produced in interstitial cells between seminiferous cells in testes
 	-	Androsterone
 	-	Testosterone:
 		- Most abundant
